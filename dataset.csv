@@ -1,0 +1,15 @@
+Age,Income,Student,Credit_raiting,Buys_Computer
+<=30,high,No,Fair,No
+<=30,high,No,Excellent,No
+31-40,high,No,Fair,Yes
+>40,medium,No,Fair,Yes
+>40,low,Yes,Fair,Yes
+>40,low,Yes,Excellent,No
+31-40,low,Yes,Excellent,Yes
+<=30,medium,No,Fair,No
+<=30,low,Yes,Fair,Yes
+>40,medium,Yes,Fair,Yes
+<=30,medium,Yes,Excellent,Yes
+31-40,medium,No,Excellent,Yes
+31-40,high,Yes,Fair,Yes
+>40,medium,No,Excellent,No
